@@ -1,0 +1,24 @@
+        ' If TextBox1.Text = "" Then
+        '     MsgBox("Enter your name!")
+        ' ElseIf TextBox2.Text = "" Then
+        '     MsgBox("Enter the password!")
+        ' Else
+        '     contact.Open()
+        '     commend.Connection = contact
+        '     commend.CommandText = "insert into Registration values ('" & TextBox1.Text & "','" & TextBox2.Text & "')"
+        '     commend.ExecuteNonQuery()
+        '     TextBox1.Text = ""
+        '     TextBox2.Text = ""
+        '     MsgBox("عملية ناجهة")
+        '     contact.Close()
+        ' End If
+
+
+
+    'Dim contact As New SqlConnection("server=DESKTOP-69CLL2D; database=Beginning; integrated security=true")
+    ' Dim commend As New SqlCommand
+
+
+
+
+'Imports System.Data.SqlClient
